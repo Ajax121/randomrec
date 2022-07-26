@@ -7,8 +7,8 @@ setup(
     description="A simple random movie recommender package",
     author = "Arjun",
     author_email="arjunharidas@hotmail.com",
-    url=adasd@daa.com,
+    url="https://github.com/Ajax121/randomrec",
     packages=["randomrecommender"],
     package_data={"randomrecommender":["data/*.txt"]},
-    install_requires = ["numpy","pandas"]
+    install_requires = ["numpy","pandas"],
     )
